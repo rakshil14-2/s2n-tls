@@ -178,3 +178,20 @@ If you are interested in contributing to s2n-tls, please see our [development gu
 
 ## Language Bindings for s2n-tls
 See our [language bindings list](https://github.com/aws/s2n-tls/blob/main/docs/BINDINGS.md) for language bindings for s2n-tls that we're aware of.
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| Fedora-34 | x64 |
+| manylinux2014 | x64, x86 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+
+<!-- PLATFORM_SUPPORT_END -->
